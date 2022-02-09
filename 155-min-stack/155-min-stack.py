@@ -1,13 +1,13 @@
 class MinStack:
 
     def __init__(self):
-        self.stk=[]
-        self.minstk=[]
+        self.stk=[]# this will store original element
+        self.minstk=[]# it store only minimum element yet
         
 
     def push(self, val: int) -> None:
         self.stk.append(val)
-        val=min(val,self.minstk[-1] if self.minstk else val)
+        val=min(val,self.minstk[-1] if self.minstk else val) # append this value to minstack only if it is less than the previous element
         self.minstk.append(val)
         
 
