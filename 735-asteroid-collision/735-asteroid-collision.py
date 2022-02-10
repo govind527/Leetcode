@@ -7,11 +7,12 @@ class Solution:
                 if diff<0:
                     stk.pop()
                 elif diff>0:
-                    a=0 #it's mean i have destroy the current astroid
+                    break #it's mean i have destroy the current astroid
                 else:
-                    a=0
+                        # its mean  have to destroy both astroid
                     stk.pop()
-            if a:
+                    break
+            else:
                 stk.append(a)
         return stk
         
