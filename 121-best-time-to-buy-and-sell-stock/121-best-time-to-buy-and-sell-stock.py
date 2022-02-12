@@ -1,3 +1,5 @@
+#Notes:find local min and search for local max, sliding window
+
 class Solution:
     def maxProfit(self, prices: List[int]) -> int:
         left,right=0,1# using two pointers and left is buying and right is selling
