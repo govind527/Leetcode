@@ -8,7 +8,7 @@ class Solution:
                 profit=prices[right]-prices[left]
                 maxx=max(maxx,profit)
             else:
-                left=right
+                left=right # if i found buying price which is less than the current buying price than i will try to buy that lowest price
             right+=1
         return maxx
                 
