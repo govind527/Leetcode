@@ -1,3 +1,5 @@
+#Notes:dp: compute max and max-abs-val for each prefix subarr;
+
 class Solution:
     def maxProduct(self, nums: List[int]) -> int:
         res=nums[0]
