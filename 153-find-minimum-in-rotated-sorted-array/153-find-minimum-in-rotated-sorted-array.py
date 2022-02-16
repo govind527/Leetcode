@@ -1,3 +1,5 @@
+# Notes:check if half of array is sorted in order to find pivot, arr is guaranteed to be in at most two sorted subarrays
+
 class Solution:
     def findMin(self, nums: List[int]) -> int:
         res=nums[0]
