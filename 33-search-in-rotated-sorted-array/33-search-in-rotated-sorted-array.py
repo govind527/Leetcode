@@ -12,19 +12,17 @@ class Solution:
             
             #left sorted array
             if nums[l]<=nums[m]:
-                if target>nums[m]:
+                if target>nums[m] or target<nums[l]:
                     l=m+1
-                elif target<nums[l]:
-                    l=m+1
+                
                 else:
                     r=m-1
             
             
             else:
-                if target<nums[m]:
+                if target<nums[m] or target>nums[r]:
                     r=m-1
-                elif target>nums[r]:
-                    r=m-1
+                
                 else:
                     l=m+1
         return -1
