@@ -2,7 +2,7 @@ class Solution:
     def minimumAbsDifference(self, arr: List[int]) -> List[List[int]]:
         
         n=len(arr)
-        #if n<=1: return []
+        if n<=1: return []
         
         ## We sort the array because pairs of elements with the minimum absolute difference will definitely 
         ## be next to each other in the sorted array.
