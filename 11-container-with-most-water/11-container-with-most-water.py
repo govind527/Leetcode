@@ -12,7 +12,7 @@ class Solution:
         l=0
         r=len(height)-1
         while(l<r):
-            maxx=max(maxx,min(height[l],height[r])*(r-l))
+            maxx=max(maxx,min(height[l],height[r])*(r-l))# finding the maximum area
             if(height[l]<height[r]):
                 l+=1
             else:
