@@ -9,6 +9,6 @@ class Solution:
         for char in text:
             if char in counter:
                 counter[char] += 1
-        counter["l"] //= 2
+        counter["l"] //= 2 # just divide by 2
         counter["o"] //= 2
         return min(counter.values())
