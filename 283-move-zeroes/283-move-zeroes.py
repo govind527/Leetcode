@@ -8,7 +8,7 @@ class Solution:
             if (num !=0):
                 nums[j]=num
                 j+=1
-        for n in range(j,len(nums)):
+        for n in range(j,len(nums)): # run loop from j to len of array 
             nums[n]=0
         
         
