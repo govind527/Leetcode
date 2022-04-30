@@ -1,4 +1,4 @@
-<h2><a href="https://leetcode.com/problems/element-appearing-more-than-25-in-sorted-array/">1287. Element Appearing More Than 25% In Sorted Array</a></h2><h3>Easy</h3><hr><div><p>Given an Integer Array <strong>sorted</strong> in non-decreasing order, there is exactly one integer in the array that occurs more than 25% of the time, return that integer.</p>
+<h2><a href="https://leetcode.com/problems/element-appearing-more-than-25-in-sorted-array/">1287. Element Appearing More Than 25% In Sorted Array</a></h2><h3>Easy</h3><hr><div><p>Given an Integer Array <strong>sorted</strong> in non-decreasing order, there is Exactly one integer in the array that occurs more than 25% of the time, return that integer.</p>
 
 <p>&nbsp;</p>
 <p><strong>Example 1:</strong></p>
