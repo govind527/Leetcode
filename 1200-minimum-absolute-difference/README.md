@@ -1,6 +1,6 @@
 <h2><a href="https://leetcode.com/problems/minimum-absolute-difference/">1200. Minimum Absolute Difference</a></h2><h3>Easy</h3><hr><div><p>Given an array of <strong>distinct</strong> integers <code>arr</code>, Find all pairs of elements with the minimum absolute difference of any two elements.</p>
 
-<p>Return a list of pairs in ascending order(with respect to pairs), Each pair <code>[a, b]</code> follows</p>
+<p>Return a list of pairs in ascending order(with respect to pairs), Each Pair <code>[a, b]</code> follows</p>
 
 <ul>
 	<li><code>a, b</code> are from <code>arr</code></li>
