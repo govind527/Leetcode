@@ -4,5 +4,5 @@ from Employee emp
  join Employee mgr
 on emp.managerId =mgr.id
 --where mgr.name is not null
-group by mgr.name,emp.managerId
-having count(distinct emp.id)>=5
+group by  mgr.name,emp.managerId
+having count( emp.id)>=5
