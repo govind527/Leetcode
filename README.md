@@ -13,6 +13,7 @@
 | [0570-managers-with-at-least-5-direct-reports](https://github.com/govind527/Leetcode/tree/master/0570-managers-with-at-least-5-direct-reports) |
 | [0607-sales-person](https://github.com/govind527/Leetcode/tree/master/0607-sales-person) |
 | [1174-sales-analysis-iii](https://github.com/govind527/Leetcode/tree/master/1174-sales-analysis-iii) |
+| [1292-immediate-food-delivery-ii](https://github.com/govind527/Leetcode/tree/master/1292-immediate-food-delivery-ii) |
 | [1317-monthly-transactions-i](https://github.com/govind527/Leetcode/tree/master/1317-monthly-transactions-i) |
 | [2087-confirmation-rate](https://github.com/govind527/Leetcode/tree/master/2087-confirmation-rate) |
 <!---LeetCode Topics End-->
