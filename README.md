@@ -21,5 +21,6 @@
 | [1278-product-price-at-a-given-date](https://github.com/govind527/Leetcode/tree/master/1278-product-price-at-a-given-date) |
 | [1292-immediate-food-delivery-ii](https://github.com/govind527/Leetcode/tree/master/1292-immediate-food-delivery-ii) |
 | [1317-monthly-transactions-i](https://github.com/govind527/Leetcode/tree/master/1317-monthly-transactions-i) |
+| [1327-last-person-to-fit-in-the-bus](https://github.com/govind527/Leetcode/tree/master/1327-last-person-to-fit-in-the-bus) |
 | [2087-confirmation-rate](https://github.com/govind527/Leetcode/tree/master/2087-confirmation-rate) |
 <!---LeetCode Topics End-->
