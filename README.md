@@ -14,6 +14,7 @@
 | [0183-customers-who-never-order](https://github.com/govind527/Leetcode/tree/master/0183-customers-who-never-order) |
 | [0570-managers-with-at-least-5-direct-reports](https://github.com/govind527/Leetcode/tree/master/0570-managers-with-at-least-5-direct-reports) |
 | [0607-sales-person](https://github.com/govind527/Leetcode/tree/master/0607-sales-person) |
+| [0626-exchange-seats](https://github.com/govind527/Leetcode/tree/master/0626-exchange-seats) |
 | [1135-customers-who-bought-all-products](https://github.com/govind527/Leetcode/tree/master/1135-customers-who-bought-all-products) |
 | [1155-product-sales-analysis-iii](https://github.com/govind527/Leetcode/tree/master/1155-product-sales-analysis-iii) |
 | [1174-sales-analysis-iii](https://github.com/govind527/Leetcode/tree/master/1174-sales-analysis-iii) |
