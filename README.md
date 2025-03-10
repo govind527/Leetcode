@@ -13,6 +13,7 @@
 | [0182-duplicate-emails](https://github.com/govind527/Leetcode/tree/master/0182-duplicate-emails) |
 | [0183-customers-who-never-order](https://github.com/govind527/Leetcode/tree/master/0183-customers-who-never-order) |
 | [0570-managers-with-at-least-5-direct-reports](https://github.com/govind527/Leetcode/tree/master/0570-managers-with-at-least-5-direct-reports) |
+| [0585-investments-in-2016](https://github.com/govind527/Leetcode/tree/master/0585-investments-in-2016) |
 | [0602-friend-requests-ii-who-has-the-most-friends](https://github.com/govind527/Leetcode/tree/master/0602-friend-requests-ii-who-has-the-most-friends) |
 | [0607-sales-person](https://github.com/govind527/Leetcode/tree/master/0607-sales-person) |
 | [0626-exchange-seats](https://github.com/govind527/Leetcode/tree/master/0626-exchange-seats) |
