@@ -29,6 +29,7 @@
 | [1327-last-person-to-fit-in-the-bus](https://github.com/govind527/Leetcode/tree/master/1327-last-person-to-fit-in-the-bus) |
 | [1452-restaurant-growth](https://github.com/govind527/Leetcode/tree/master/1452-restaurant-growth) |
 | [1480-movie-rating](https://github.com/govind527/Leetcode/tree/master/1480-movie-rating) |
+| [1523-capital-gainloss](https://github.com/govind527/Leetcode/tree/master/1523-capital-gainloss) |
 | [2057-count-salary-categories](https://github.com/govind527/Leetcode/tree/master/2057-count-salary-categories) |
 | [2087-confirmation-rate](https://github.com/govind527/Leetcode/tree/master/2087-confirmation-rate) |
 <!---LeetCode Topics End-->
