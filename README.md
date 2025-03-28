@@ -26,6 +26,7 @@
 | [1161-project-employees-i](https://github.com/govind527/Leetcode/tree/master/1161-project-employees-i) |
 | [1174-sales-analysis-iii](https://github.com/govind527/Leetcode/tree/master/1174-sales-analysis-iii) |
 | [1182-game-play-analysis-iv](https://github.com/govind527/Leetcode/tree/master/1182-game-play-analysis-iv) |
+| [1245-user-activity-for-the-past-30-days-i](https://github.com/govind527/Leetcode/tree/master/1245-user-activity-for-the-past-30-days-i) |
 | [1268-market-analysis-i](https://github.com/govind527/Leetcode/tree/master/1268-market-analysis-i) |
 | [1278-product-price-at-a-given-date](https://github.com/govind527/Leetcode/tree/master/1278-product-price-at-a-given-date) |
 | [1292-immediate-food-delivery-ii](https://github.com/govind527/Leetcode/tree/master/1292-immediate-food-delivery-ii) |
