@@ -41,6 +41,7 @@
 | [1801-average-time-of-process-per-machine](https://github.com/govind527/Leetcode/tree/master/1801-average-time-of-process-per-machine) |
 | [2057-count-salary-categories](https://github.com/govind527/Leetcode/tree/master/2057-count-salary-categories) |
 | [2087-confirmation-rate](https://github.com/govind527/Leetcode/tree/master/2087-confirmation-rate) |
+| [2495-number-of-unique-subjects-taught-by-each-teacher](https://github.com/govind527/Leetcode/tree/master/2495-number-of-unique-subjects-taught-by-each-teacher) |
 | [3530-odd-and-even-transactions](https://github.com/govind527/Leetcode/tree/master/3530-odd-and-even-transactions) |
 | [3767-find-students-who-improved](https://github.com/govind527/Leetcode/tree/master/3767-find-students-who-improved) |
 <!---LeetCode Topics End-->
