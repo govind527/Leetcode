@@ -40,6 +40,7 @@
 | [1452-restaurant-growth](https://github.com/govind527/Leetcode/tree/master/1452-restaurant-growth) |
 | [1480-movie-rating](https://github.com/govind527/Leetcode/tree/master/1480-movie-rating) |
 | [1523-capital-gainloss](https://github.com/govind527/Leetcode/tree/master/1523-capital-gainloss) |
+| [1625-group-sold-products-by-the-date](https://github.com/govind527/Leetcode/tree/master/1625-group-sold-products-by-the-date) |
 | [1670-patients-with-a-condition](https://github.com/govind527/Leetcode/tree/master/1670-patients-with-a-condition) |
 | [1773-percentage-of-users-attended-a-contest](https://github.com/govind527/Leetcode/tree/master/1773-percentage-of-users-attended-a-contest) |
 | [1801-average-time-of-process-per-machine](https://github.com/govind527/Leetcode/tree/master/1801-average-time-of-process-per-machine) |
