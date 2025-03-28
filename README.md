@@ -19,6 +19,7 @@
 | [0585-investments-in-2016](https://github.com/govind527/Leetcode/tree/master/0585-investments-in-2016) |
 | [0602-friend-requests-ii-who-has-the-most-friends](https://github.com/govind527/Leetcode/tree/master/0602-friend-requests-ii-who-has-the-most-friends) |
 | [0607-sales-person](https://github.com/govind527/Leetcode/tree/master/0607-sales-person) |
+| [0619-biggest-single-number](https://github.com/govind527/Leetcode/tree/master/0619-biggest-single-number) |
 | [0620-not-boring-movies](https://github.com/govind527/Leetcode/tree/master/0620-not-boring-movies) |
 | [0626-exchange-seats](https://github.com/govind527/Leetcode/tree/master/0626-exchange-seats) |
 | [1135-customers-who-bought-all-products](https://github.com/govind527/Leetcode/tree/master/1135-customers-who-bought-all-products) |
