@@ -54,4 +54,12 @@
 | [2495-number-of-unique-subjects-taught-by-each-teacher](https://github.com/govind527/Leetcode/tree/master/2495-number-of-unique-subjects-taught-by-each-teacher) |
 | [3530-odd-and-even-transactions](https://github.com/govind527/Leetcode/tree/master/3530-odd-and-even-transactions) |
 | [3767-find-students-who-improved](https://github.com/govind527/Leetcode/tree/master/3767-find-students-who-improved) |
+## Array
+|  |
+| ------- |
+| [0792-binary-search](https://github.com/govind527/Leetcode/tree/master/0792-binary-search) |
+## Binary Search
+|  |
+| ------- |
+| [0792-binary-search](https://github.com/govind527/Leetcode/tree/master/0792-binary-search) |
 <!---LeetCode Topics End-->
